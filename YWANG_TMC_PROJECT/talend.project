@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_pCCogd3fEemyCoxF3RpERA" label="ywang-tmc-project" language="java" technicalLabel="YWANG_TMC_PROJECT" author="_pCCogt3fEemyCoxF3RpERA" productVersion="Talend Cloud Real-Time Big Data Platform-7.2.1.20190909_1200_patch" url="{&quot;location&quot;:&quot;https://github.com/yyanwang/tmc-project.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+    <migrationTask xmi:id="_pFV0IN3fEemyCoxF3RpERA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_pCCogt3fEemyCoxF3RpERA" login="ywang@sttmctest.azure.com" firstName="Yan" lastName="Wang" type="DQ"/>
+</xmi:XMI>
